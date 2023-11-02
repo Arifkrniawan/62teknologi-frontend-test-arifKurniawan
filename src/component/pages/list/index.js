@@ -20,7 +20,6 @@ const List = () => {
   const [sort, setSort] = useState("");
   const [currentPage, setCurrentPage] = useState(0);
   const [pageLimit] = useState(4);
-  const [sortFilterValue, setSortFilterValue] = useState("");
   const [operation, setOperation] = useState("");
 
   const sortOption = ["name", "location", "email", "phone", "status"];
