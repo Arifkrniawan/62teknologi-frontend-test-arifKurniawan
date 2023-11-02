@@ -1,0 +1,16 @@
+.site-footer {
+  background-color: #495e57;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  grid-template-columns: 1;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  justify-content: center;
+}
+
+.site-footer a {
+  color: #ffffff;
+  transition: color 0.5s;
+}

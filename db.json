@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "name": "Uduk Toha",
+      "email": "Uduk.Toha@gmail.com",
+      "phone": "082179318775",
+      "location": "Bandar Lampung",
+      "id": 2,
+      "status": "Buka"
+    },
+    {
+      "name": "Bakso Sony",
+      "email": "Bakso.Sony@gmail.com",
+      "phone": "083179318775",
+      "location": "Bandar Lampung",
+      "id": 3,
+      "status": "Buka"
+    },
+    {
+      "name": "Bebek Belur",
+      "email": "Bebek.Belur@gmail.com",
+      "phone": "082171318775",
+      "location": "Bandar Lampung",
+      "id": 4,
+      "status": "Buka"
+    },
+    {
+      "name": "Pondok Lempasing",
+      "email": "Lempasing@gmail.com",
+      "phone": "082149318775",
+      "location": "Lampung Selatan",
+      "id": 5,
+      "status": "Buka"
+    },
+    {
+      "name": "Saung Bang Ocid",
+      "email": "Ocid@gmail.com",
+      "phone": "082179228775",
+      "location": "Pringsewu",
+      "id": 6,
+      "status": "Buka"
+    },
+    {
+      "name": "Sate Luwes",
+      "email": "Luwes@gmail.com",
+      "phone": "082112318775",
+      "location": "Pringsewu",
+      "id": 7,
+      "status": "Tutup"
+    },
+    {
+      "name": "Begadang II",
+      "email": "BegadangII@gmail.com",
+      "phone": "082179318885",
+      "location": "Bandar Lampung",
+      "id": 8,
+      "status": "Tutup"
+    },
+    {
+      "name": "Begadang IV",
+      "email": "BegadangIV@gmail.com",
+      "phone": "087179318775",
+      "location": "Metro",
+      "id": 9,
+      "status": "Buka"
+    },
+    {
+      "name": "Sambal Alu",
+      "email": "Sambal.Alu@gmail.com",
+      "phone": "083179318775",
+      "location": "Pringsewu",
+      "id": 10,
+      "status": "Buka"
+    },
+    {
+      "name": "Yanto Lamongan",
+      "email": "Yanto.Lamongan@gmail.com",
+      "phone": "082171318332",
+      "location": "Lampung Selatan",
+      "id": 11,
+      "status": "Buka"
+    },
+    {
+      "name": "Ayam Bakar Mbok Jum",
+      "email": "Mbok.Jum@gmail.com",
+      "phone": "082149328775",
+      "location": "Metro",
+      "id": 12,
+      "status": "Tutup"
+    },
+    {
+      "name": "Ayam Kalasan",
+      "email": "Kalasan@gmail.com",
+      "phone": "082179228775",
+      "location": "Metro",
+      "id": 13,
+      "status": "Buka"
+    },
+    {
+      "name": "Ayam Bakar Hi. Selamet",
+      "email": "Mulan@gmail.com",
+      "phone": "087812318775",
+      "location": "Bandar Lampung",
+      "id": 14,
+      "status": "Buka"
+    },
+    {
+      "name": "Pindang Riu",
+      "email": "Ika@gmail.com",
+      "phone": "085579318885",
+      "location": "Bandar Lampung",
+      "id": 15,
+      "status": "Tutup"
+    }
+  ]
+}
